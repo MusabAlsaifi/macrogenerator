@@ -1,0 +1,2 @@
+MACRO "A" cannot be called for within its own definition in context:
+['A']

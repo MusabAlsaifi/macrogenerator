@@ -1,0 +1,3 @@
+ERROR: MACRO CLOSE STATEMENT WITHOUT OPENING FOUND
+MACRO "c" has no definition in given context
+['a']
