@@ -10,3 +10,12 @@ dictionary and only then resolve all the macro calls. This way the
 macro call can be present before its definition and still be resolved
 without errors.
 
+## Setup:
+To genrate files
+```
+$ python tests.py
+```
+To test against custom input
+```
+$ macro_nested.py sample.txt
+```
